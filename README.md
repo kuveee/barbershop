@@ -1,3 +1,5 @@
+link: https://kuveee.github.io/barbershop/
+
 **Requerimientos visuales y técnicos de la web.**
 
 **Requerimientos generales**
