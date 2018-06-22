@@ -85,8 +85,8 @@ Sección 6:
 - README
 - Assets/
 	- Css/
-	- Fonts/
+	- icons/
 	- Img
-	- js
+	
 
 
